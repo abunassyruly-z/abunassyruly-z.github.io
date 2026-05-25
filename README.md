@@ -36,9 +36,9 @@ In this project I designed the PCB in EasyEDA with the given LT1490 Op-amp. I wa
 ![Table: Measured & Calculated data](Table.png)
 *Excel Bode plot directly comparing the LTSpice Simulated Gain vs. the Physical Measured Gain.*
 ![Bode Plot](dB.png)
-*Excel Bode plot directly comparing the LTSpice Simulated Gain vs. the Physical Measured Gain.*
+
 ![Bode Plot](degrees.png)
-*Excel Bode plot directly comparing the LTSpice Simulated Gain vs. the Physical Measured Gain.*
+
 
 **Results, Learnings & Troubleshooting**
 * **The Success:** Overall, the physical PCB functioned correctly and closely mirrored the LTSpice simulation across most of the frequency band.
