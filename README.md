@@ -145,7 +145,7 @@ targets and resulting performance.
 
 
 
-### Op-Amp PCB Simulation & Hardware Verification **(Fall 2025)
+### Op-Amp PCB Simulation & Hardware Verification **(Fall 2025)**
 
 
 *The schematic from LTSpice*
@@ -207,7 +207,7 @@ targets and resulting performance.
 
 
 
-###  Converting Alphanumeric Codes with Combinational Logic (Spring 2025)
+### Converting Alphanumeric Codes with Combinational Logic **(Spring 2025)**
 
  **METHODS**
 * A truth table was constructed for the letters a through z
