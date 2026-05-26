@@ -94,11 +94,18 @@ The final PCB layout and physical views of the completed hardware are shown in F
 
 
 C.  Performance Data and Analysis
+
 *Figure 7: Oscilloscope capture of the LT1376 power-up waveform showing the
 transition to regulated output voltage.*
 
 
 ![z](PowerUp.png)
+
+
+*Figure 8: LTspice Schematic*
+
+![schem](1376.png)
+
 
 The transient response captured during power-up, shown in
 Figure 7 confirmed the LT1376 circuit's startup stability.
